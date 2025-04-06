@@ -55,7 +55,7 @@ header .inner {
 	margin: 0 auto;
 	overflow: hidden;
 	font-size: 45px;	/*文字サイズ*/
-	color: #ffffff;	/*文字色*/
+	color: #fff;	/*文字色*/
 }
 /*ロゴ画像*/
 #logo img {
