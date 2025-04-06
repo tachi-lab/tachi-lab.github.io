@@ -54,6 +54,7 @@ header .inner {
 	width: 1000px;	/*幅*/
 	margin: 0 auto;
 	overflow: hidden;
+	font-size: 45px;	/*文字サイズ*/
 }
 /*ロゴ画像*/
 #logo img {
