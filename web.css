@@ -1,0 +1,138 @@
+/*全体の設定---------------------------------------------------------------------------*/
+body {
+	font-family: "メイリオ", "Meiryo", sans-serif; /*フォント種類*/
+	font-size:	14px; /*文字サイズ*/
+	line-height: 20px; /*行間*/
+	font-weight: 900; 
+}
+
+a {
+	text-decoration: none; /* リンクの下線を無くする */
+}
+
+/* メインページ 表の見出し */
+.y1
+{	font-family: "メイリオ","Arial","MS Pゴシック", sans-serif;
+	text-align: center;
+	font-weight: 900; 
+	font-size: large;
+	color: #7b68ee;
+	background: #00ff00;
+}
+
+/* 住所録の氏名部分 */
+.y2
+{	text-align: center;
+}
+
+/* メインページ 表の見出し */
+.y3
+{	font-family: "メイリオ","Arial","MS Pゴシック", sans-serif;
+	text-align: center;
+	font-size: large;
+	color: #7b68ee;
+	background: #00ff00;
+	width: 600pt;
+}
+
+
+/* 全体の見出し */
+.x0
+{	font-family: "メイリオ","Arial","MS Pゴシック", sans-serif;
+	font-size: x-large;
+	text-align: left;
+	color: #ffffff;
+	background: #0000ff;
+	padding-left: 20pt;
+}
+
+/* 未使用 */
+.x1
+{	font-family: "メイリオ","Arial","MS Pゴシック", sans-serif;
+	font-size: x-large;
+	text-align: left;
+	color: #ffffff;
+	background: #0000ff;
+	padding-left: 20pt;
+
+}
+
+/* メインページ リスト */
+.z1
+{	list-style-type: none;
+	position: static; top:10px;
+	font-family: "メイリオ","Arial","MS Pゴシック", sans-serif;
+	text-align: left;
+	font-weight: 900; 
+}
+
+.z2
+{	list-style-type: disc;
+
+}
+
+.z3
+{	list-style-type: none;
+	font-family: "メイリオ","Arial","MS Pゴシック", sans-serif;
+	margin-left: -2em;
+}
+
+.z4
+{	list-style-type: none;
+	font-family: "メイリオ","Arial","MS Pゴシック", sans-serif;
+	margin-left: 0.5em;
+
+/* fonts properties */
+.f1
+{
+	color: #ffff00;
+
+}
+
+
+/* 全体を形成するテーブル */
+.table0
+{	width: 100%;
+	table-layout: fixed;
+	text-align: left;
+	position: static; top:10px;
+	table-layout: fixed;
+}
+
+/* 住所録 表 */
+.table1
+{	width: 500pt;
+}
+
+/* 連絡先 表 */
+.table2
+{	width: 350pt;
+	
+}
+
+.table3
+{	width: 750pt;
+	table-layout: fixed;
+	text-align: left;
+}
+
+
+/* 業者リスト */
+th.w1 { width: 120pt; }
+th.w2 { width: 150pt; }
+th.w3 { width: 300pt; }
+
+/* メインページ下側のリスト部分 */
+.y0
+{	vertical-align: top;
+	margin-left: 10px;
+	text-align: left;
+	position: static; top:10px;
+}
+
+.l1 {
+	font-family: "メイリオ", "Meiryo", sans-serif; /*フォント種類*/
+	font-size:	14px; /*文字サイズ*/
+	line-height: 20px; /*行間*/
+}
+
